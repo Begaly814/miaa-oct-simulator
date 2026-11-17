@@ -1,0 +1,7 @@
+# Keep line endings LF in the repository so builds work on Linux and macOS.
+* text=auto eol=lf
+
+# Binary files
+*.pdf binary
+*.png binary
+*.npz binary
